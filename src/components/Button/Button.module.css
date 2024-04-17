@@ -1,0 +1,14 @@
+.button {
+    padding: 12px 20px; /* Espaciado interno */
+    font-size: 18px;
+    color: #fff; /* Color del texto */
+    background-color: #28a745; /* Color de fondo */
+    border: none; /* Quita el borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer;
+    width: 22%;
+}
+
+.button:active {
+    background-color: #218838; /* Color de fondo más oscuro */
+}

@@ -1,0 +1,9 @@
+.h1 {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color:beige; /* Color del texto */
+    text-align: center;
+    text-transform: uppercase; /* Convertir texto a mayúsculas */
+    letter-spacing: 2px; /* Espaciado entre letras */
+    margin: 20px 0; /* Margen superior e inferior */
+}

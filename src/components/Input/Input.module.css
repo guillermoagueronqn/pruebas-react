@@ -1,0 +1,14 @@
+.input {
+    color: black;
+    width: 65%; /* Ancho del input */
+    padding: 10px; /* Espacio dentro del input */
+    font-size: 18px;
+    border: 1px solid #ccc; /* Borde del input */
+    border-radius: 5px; /* Bordes redondeados */
+    box-sizing: border-box; /* Incluir el padding y el borde en el ancho total */
+}
+.input:focus {
+    outline: none; /* Quita el contorno predeterminado */
+    border-color: #007bff; /* Cambia el color del borde al enfocarse */
+    box-shadow: 0 0 5px #007bff; /* Agrega una sombra al enfocarse */
+}

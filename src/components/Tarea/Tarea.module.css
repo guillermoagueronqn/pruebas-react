@@ -1,0 +1,14 @@
+.tarea {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.columna {
+    flex: 1;
+    /*margin-right: 10px; /* Espacio entre columnas */
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 25%;
+}
