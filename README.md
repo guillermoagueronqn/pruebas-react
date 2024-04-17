@@ -54,6 +54,7 @@ instalado correctamente.
 
  **3.** Copiar la url del repositorio de GitHub.
 
+![Paso 3](./img/paso3.png)
  **4.** Abrir en el editor de código usado la carpeta donde se querrá guardar el proyecto.
 
  **5.** En la terminal, clonar el proyecto usando la url. Esto se realiza con el comando git clone url
