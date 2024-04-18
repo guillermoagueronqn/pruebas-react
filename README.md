@@ -61,18 +61,18 @@ instalado correctamente.
 
  **3.** Copiar la url del repositorio de GitHub.
 
-![Paso 3](https://postimg.cc/jWHhqw2P)
+![Paso 3](https://i.postimg.cc/N0VC4RwJ/paso3.png)
 
  **4.** Abrir en el editor de código usado la carpeta donde se querrá guardar el proyecto.
 
-![Paso 4](https://postimg.cc/RWnR8bzP)
+![Paso 4](https://i.postimg.cc/Jzp2s9YW/paso4.png)
 
  **5.** En la terminal, clonar el proyecto usando la url. Esto se realiza con el comando `git clone url`
 
-![Paso 5](https://postimg.cc/2VtG0Ngb)
+![Paso 5](https://i.postimg.cc/Qd8zxXbb/paso5.png)
 
  **6.** Luego se deberá posicionar en la carpeta del proyecto clonado con el comando `cd PWA-2024` (en este caso ya que se llama así el proyecto). Una vez dentro de la carpeta, se ejecutará el comando `npm install`, el cual sirve para instalar todas las dependencias del proyecto.
 
-![Paso 6](https://postimg.cc/Z9tchFbJ)
+![Paso 6](https://i.postimg.cc/JhtdZPSH/paso6.png)
 
  **7.** Por último, para iniciar el proyecto ejecutamos el comando `npm start`, con el cual se podrá empezar a utilizar el programa.
