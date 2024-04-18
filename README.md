@@ -57,7 +57,7 @@ se debe elegir el sistema operativo y luego seguir el proceso de instalación.
 se muestra en consola son las versiones instaladas. En caso de que no se muestren las versiones, quiere decir que todavía no se han
 instalado correctamente.
 
-![Paso 2]("https://postimg.cc/N5Fb8jCv")
+![Paso 2](https://i.postimg.cc/Wb6KvDMz/paso2.png)
 
  **3.** Copiar la url del repositorio de GitHub.
 
