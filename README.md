@@ -1,4 +1,10 @@
 # PWA-2024
+
+## Descripción de la aplicación
+
+La aplicación desarrollada funciona como anotador de tareas por hacer. Por lo tanto, permite al usuario agregar nuevas tareas, marcar tareas como completadas y eliminarlas.
+Habrá un contador que muestra el número total de tareas y de tareas completadas, así como también a medida que el usuario agregue tareas, éstas se mostrarán en una lista.
+
 ## Explicacion de archivos principales
  
 `Index.js`:
