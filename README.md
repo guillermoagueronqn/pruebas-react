@@ -63,3 +63,5 @@
 ![Paso 6](/public/img/paso6.png)
 
  **7.** Por último, para iniciar el proyecto ejecutamos el comando `npm start`, con el cual se podrá empezar a utilizar el programa.
+ Al completar este último paso, se debería poder visualizar en el navegador la primera imagen mostrada debajo de la descripción de la 
+ aplicación.
