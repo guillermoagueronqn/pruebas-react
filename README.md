@@ -10,6 +10,12 @@
   Además, en ambas páginas habrá un botón en el header que permite volver a la página de inicio cuando el usuario lo presione.
 
 
+  Página de inicio
+![Página de Inicio](/public/img/appVehiculos1.png)
+
+  Página de detalles
+![Paso 2](/public/img/appVehiculos2.png)
+
 ## :mortar_board: Cursada 2024
 
 - Universidad Nacional del Comahue
